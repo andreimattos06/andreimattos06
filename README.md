@@ -2,7 +2,8 @@
 
 🎓 Graduated in Computer Science from the Universidade Federal da Grande Dourados - UFGD.
 
-💻 Focused on web frontend development using React/Next.js, passionate about creating appealing and functional interfaces.
+💻 Backend development with Spring Boot/Node.js, dedicated to building robust and efficient systems.
+💻 Web frontend development using React/Next.js, passionate about creating appealing and functional interfaces.
 
 🚀 Technologies I love to work with:
 - Frontend: React, Next.js, TypeScript, Tailwind CSS, JavaScript.
