@@ -1,13 +1,13 @@
 👋 Hi, I'm Andrei Mattos, a 28-year-old programming enthusiast!
 
-🎓 Graduated in Computer Science from the Universidade Federal da Grande Dourados - UFGD.
+🎓 Graduated in Computer Science from the Federal University of Grande Dourados - UFGD.
 
-💻 Backend development with Spring Boot/Node.js, dedicated to building robust and efficient systems.
+💻 Backend development with Spring Boot/Node.js, dedicated to building robust and efficient systems. </br>
 💻 Web frontend development using React/Next.js, passionate about creating appealing and functional interfaces.
 
 🚀 Technologies I love to work with:
+- Backend: Spring Boot, Node.js, PostgreSQL, MongoDB, Prisma, Java.
 - Frontend: React, Next.js, TypeScript, Tailwind CSS, JavaScript.
-- Backend: Node.js, Postgres, Prisma.
 
 🌐 Proficient in English, ready to collaborate on international projects.
 
